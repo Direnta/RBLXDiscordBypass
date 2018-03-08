@@ -21,5 +21,8 @@ Data = http:JSONEncode(Data)
 http:PostAsync("https://direnta.github.io/RBLXDiscordBypass/postme/", Data)
 ```
 
-# Done.
-You should be done and you should be getting webhook messages sent now!
+# Step 3.
+Rename the "WEBHOOK" in the ServerScriptService bypass script with your webhook url.
+
+# Done
+Congratulations, webhooks should work now!
