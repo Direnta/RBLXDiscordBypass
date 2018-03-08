@@ -18,7 +18,7 @@ local Data = {
 
 Data = http:JSONEncode(Data)
 
-http:PostAsync("https://direnta.github.io/RBLXDiscordBypass/postme/", Data)
+http:PostAsync("http://direnta.tk/postme/", Data)
 ```
 
 # Step 3.
