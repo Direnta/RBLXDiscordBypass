@@ -27,9 +27,5 @@ Rename the "WEBHOOK" in the ServerScriptService bypass script with your webhook 
 # Done
 Congratulations, webhooks should work now!
 
-# Credits:
-# Direnta#1796
-# MrSkit 
-
 # NOTICE
 I am not responsible for anything you do with this. Any legal troubles will not be associated here. Do not plan on selling this. 
